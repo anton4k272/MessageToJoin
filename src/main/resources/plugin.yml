@@ -1,0 +1,15 @@
+name: MessageToJoin
+main: com.github.MessageToJoin
+version: 1.1
+commands:
+  messagetojoin:
+    description: Перезагружает конфигурацию плагина MessageToJoin.
+    usage: /messagetojoin reload
+    permission: messagetojoin.reload
+permissions:
+  messagetojoin.reload:
+    description: Позволяет игроку перезагрузить конфигурацию плагина MessageToJoin.
+    default: op
+  messagetojoin.message:
+    description: Позволяет игроку получать сообщения при присоединении
+    default: op

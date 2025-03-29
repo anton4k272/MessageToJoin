@@ -1,0 +1,8 @@
+plugin-enable: true # включает или отключает плагин
+message-delay: 1 # Задержка в секундах перед отправкой сообщений
+# Можете использовать этот сайт для генерации RGB https://www.birdflop.com/resources/rgb/
+# Обязательно используйте формат с §x§0§8§4§C§F§B§l иначе наш текст крашнет
+1: "§x§0§8§4§C§F§B§lW§x§1§0§5§4§F§B§le§x§1§9§5§D§F§B§ll§x§2§1§6§5§F§B§lc§x§2§9§6§D§F§B§lo§x§3§1§7§6§F§C§lm§x§3§A§7§E§F§C§le §x§4§A§8§F§F§C§lt§x§5§2§9§7§F§C§lo §x§6§3§A§8§F§C§lt§x§6§B§B§0§F§C§lh§x§7§3§B§9§F§C§le §x§8§4§C§9§F§D§ls§x§8§C§D§2§F§D§le§x§9§4§D§A§F§D§lr§x§9§D§E§2§F§D§lv§x§A§5§E§B§F§D§le§x§A§D§F§3§F§D§lr"
+2: "§x§0§8§4§C§F§B§lW§x§1§D§6§1§F§B§le§x§3§1§7§6§F§C§ll§x§4§6§8§B§F§C§lc§x§5§B§A§0§F§C§lo§x§6§F§B§4§F§C§lm§x§8§4§C§9§F§D§le §x§A§D§F§3§F§D§l2"
+3: "§x§0§8§4§C§F§B§lWelcome 3"
+# Можете добавлять сколько угодно строк
